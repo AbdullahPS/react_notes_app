@@ -16,7 +16,6 @@ In this section you’ll be exposed to various ideas that will change your view 
 
 In order to become good at anything you must have a strong foundation. By refreshing the basics you’ll refine your mental model of how software development works in order to make sense of new concepts quicker.
 
-_Both Frontend and Backend is included, but you're only required to do the one that fits with your specialization!_
 
 - **TAP Quickstart**
 
@@ -41,4 +40,5 @@ The application will contain the following features:
 After you've finished your application, please submit it to this repository through a pull request. Good luck!
 
 _Deadline for part 1 (Frontend): Saturday, Feb 19, 2022 23:59 _
+
 _Deadline for part 2 (Backend):  Saturday, Feb 26, 2022 23:59 _
