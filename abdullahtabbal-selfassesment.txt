@@ -1,0 +1,17 @@
+Technical (Frontend)
+● Why is “thinking in components” useful when building a webpage?
+
+Thinking in components has many advantages, one of them is the reusibilty of the compopnent in 
+other places which saves time and refactors the code, another thing is that the programm
+becomes more understandable for others. Another advantage is that we can work on each
+component on its own even though other components are not ready yet. It also helps in 
+debugging when something does not work good
+
+Soft Skills
+● How could ownership help develop better time management skills?
+
+When you take ownership about something you put all your effort in it, means you are no more
+working to get something done no matter how the output is because you always wants the 
+best for you. An additional point is that you will spend more time in it because you 
+really want it to be done which will help you also to manage our time better, as you will 
+create yourself some time for the task to be done 
